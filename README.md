@@ -12,13 +12,13 @@ Decription
 ### Environment
 
 #### Main
-	- unreal engine ver()
+- unreal engine ver (5.0.1)
 
 #### Modeling
-	- blender		ver()
+- blender		ver()
 
 #### Music
-    - empty			ver()
+- empty			ver()
 
 #### outer resource info
-	- empty
+- empty
